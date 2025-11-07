@@ -12,8 +12,11 @@ Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 Language: SQL, Python
+
 Database: Google BigQuery, PostgreSQL, MySQL
+
 Visualization: Tableau, Looker Studio
+
 ### 👋🏻 Connect with Me
 www.linkedin.com/in/ricardo-davila-7519a8210
 
