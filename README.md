@@ -5,17 +5,20 @@ Hello, I'm Ricardo. Data Analyst with expertise in data analysis and reporting, 
 
 ### Querying data using SQL.
 Generate reports and data analysis using SQL.
+
 Developing dashboards on excel and power bi.
+
 Data analysis and reporting using Google Sheets and Excel.
+
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
-Language: SQL, Python
+Language: SQL, Python, Excel
 
 Database: Google BigQuery, PostgreSQL, MySQL
 
-Visualization: Tableau, Looker Studio
+Visualization: Tableau, Power bi
 
 ### 👋🏻 Connect with Me
 www.linkedin.com/in/ricardo-davila-7519a8210
