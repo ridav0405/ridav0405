@@ -6,7 +6,7 @@ Hello, I'm Ricardo. Data Analyst with expertise in data analysis and reporting, 
 ### Querying data using SQL.
 Generate reports and data analysis using SQL.
 
-Developing dashboards on excel, power bi Tableu.
+Developing dashboards on excel, power bi and Tableu.
 
 Data analysis and reporting using Google Sheets and Excel.
 
